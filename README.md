@@ -20,3 +20,6 @@
 - Postman API
 - Swagger API
 - MS Visual Studio
+
+## Referência
+- Evento [https://app.rocketseat.com.br/events/nlw-expert/csharp/abertura-nlw-expert]
